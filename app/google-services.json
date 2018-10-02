@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "444853658386",
+    "firebase_url": "https://sam-love.firebaseio.com",
+    "project_id": "sam-love",
+    "storage_bucket": "sam-love.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444853658386:android:359fd517bb13c296",
+        "android_client_info": {
+          "package_name": "rencontre.dating.kiffpourtoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444853658386-29s6o819croooalb619jdb38gern3iup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pUjnLVlI7x2AIbPxrPQHgnAtInh9rMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444853658386:android:9cd489523f4def4c",
+        "android_client_info": {
+          "package_name": "rencontre.dating.looveyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444853658386-29s6o819croooalb619jdb38gern3iup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pUjnLVlI7x2AIbPxrPQHgnAtInh9rMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444853658386:android:bf40ae68854c6b79",
+        "android_client_info": {
+          "package_name": "rencontre.dating.nazdetoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444853658386-29s6o819croooalb619jdb38gern3iup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pUjnLVlI7x2AIbPxrPQHgnAtInh9rMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
